@@ -1,3 +1,3 @@
-# fine_tune_roberta
+# FineTune_DistilRoBERTa
 
-#### Fine tune [RoBERTa base model](https://huggingface.co/roberta-base) for Objectivity analysis
+#### Fine tune [DistilRoBERTa base model](https://huggingface.co/distilroberta-base) for Objectivity analysis
