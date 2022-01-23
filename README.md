@@ -4,7 +4,7 @@
 
 
 In depth:
-- [news_source_objectivity](https://github.com/HzaRashid/news_source_objectivity) was my first [NLP](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1) project, where I used the nltk, textblob, and vader libraries to measure the objectivty of a news source's Tweets. 
+- [news_source_objectivity](https://github.com/HzaRashid/news_source_objectivity) was my first [NLP](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1) project, where I used the nltk, textblob, and vader libraries to measure the objectivity of a news source's Tweets. 
 
 - In this repository, I expand on objectivity analysis by fine tuning a pretrained [transformer model](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0), DistilRoBERTa, to predict if a text with 240 characters is Objective or Subjective. 
 
